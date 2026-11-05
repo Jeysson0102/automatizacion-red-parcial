@@ -1,0 +1,10 @@
+[
+    {
+        "id": 200,
+        "dispositivo": "Cisco 1941 Router",
+        "categoria": "Enrutamiento",
+        "politica_acl": "ACL IPv4 extendida",
+        "segmentacion_vlan": "Optimo: VLAN nativa (1) y VLAN de datos (100) separadas",
+        "responsable": "Jeysson Perez - NetAdmin"
+    }
+]

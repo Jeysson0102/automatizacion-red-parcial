@@ -1,0 +1,2 @@
+ID,Dispositivo,Categoria,Politica_ACL,Segmentacion_VLAN,Responsable
+200,Cisco 1941 Router,Enrutamiento,ACL IPv4 extendida,Optimo: VLAN nativa (1) y VLAN de datos (100) separadas,Jeysson Perez - NetAdmin
